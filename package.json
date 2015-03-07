@@ -1,0 +1,15 @@
+{
+  "name":"gtfs-shapes-simplifier",
+  "version": "0.0.1",
+  "description": "Simplifies GTFS Shapes files using the Ramer-Douglas-Peucker algorithm",
+  "author": "William Edward Lee",
+  "contributors":[{
+    "name": "Tony Laidig"
+    }],
+  "dependencies":{
+    "simplify-polyline": "0.0.x",
+    "csv-parse": "0.0.x",
+    "underscore": "1.8.x"
+  },
+  "license": "ISC"
+}
